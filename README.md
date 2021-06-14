@@ -2,7 +2,7 @@
 
 Buzzer GROVE [33131](https://www.pierron.fr/interface-arduino-uno-5967.html)
 
-<div style="text-align: justify">Le module Buzzer GROVE à un buzzer piézoélectrique comme composant principal. Le piézo peut être connecté à des sorties numériques et émettra une tonalité lorsque la sortie est ÉLEVÉE. Alternativement, il peut être connecté à une sortie de modulation analogique de largeur d’impulsion pour générer diverses tonalités et effets.</div>
+<div style="text-align: justify">Le module Buzzer GROVE à un buzzer piézoélectrique comme composant principal. Le piézoélectrique peut être connecté à des sorties numériques et émettra une tonalité lorsque la sortie est ÉLEVÉE. Alternativement, il peut être connecté à une sortie de modulation analogique de largeur d’impulsion pour générer diverses tonalités et effets.</div>
 
 Caractéristiques techniques :
 - Alimentation : 3.3 V ou 5 V
@@ -27,7 +27,7 @@ Si vous souhaitez modifier l’intensité du son émis par le buzzer, référez-
 
 # RESSOURCES À TÉLÉCHARGER :
 
-Ressource utilisation : [S9013](https://github.com/pierron-asco-celda/33169-Telemetre_ir_GROVE/blob/main/src/Datasheet_GP2Y0A21YK.pdf)
+Ressource utilisation : [S9013](https://github.com/pierron-asco-celda/33131-Buzzer_GROVE/blob/main/src/Datasheet_S9013.pdf)
 
 # Exemple :
 ### Arduino / C++
