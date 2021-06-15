@@ -2,7 +2,7 @@
 
 Buzzer GROVE [33131](https://www.pierron.fr/interface-arduino-uno-5967.html)
 
-<div style="text-align: justify">Le module Buzzer GROVE à un buzzer piézoélectrique comme composant principal. Le piézoélectrique peut être connecté à des sorties numériques et émettra une tonalité lorsque la sortie est ÉLEVÉE. Alternativement, il peut être connecté à une sortie de modulation analogique de largeur d’impulsion pour générer diverses tonalités et effets.</div>
+<div style="text-align: justify">Ce module GROVE est basé sur un buzzer piézoélectrique. Le piézoélectrique peut être connecté à des sorties numériques et émettra une tonalité lorsque la sortie est ÉLEVÉE. Alternativement, il peut être connecté à une sortie de modulation analogique de largeur d’impulsion pour générer diverses tonalités et effets.</div>
 
 Caractéristiques techniques :
 - Alimentation : 3.3 V ou 5 V
@@ -12,7 +12,7 @@ Caractéristiques techniques :
 ![L-33131](/img/L-33131.jpg)
 
 # Usage :
-Pour l’utilisation de ce module référez-vous aux indications présentes sur le circuit imprimé GROVE.
+Pour l’utilisation de ce module, référez-vous aux indications présentes sur le circuit imprimé GROVE.
 
 # Schémas :
 
